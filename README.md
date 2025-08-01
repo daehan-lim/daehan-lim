@@ -85,12 +85,6 @@
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com?user=daehan-lim&theme=transparent" width="600" />
-  </a>
-</p>
-
 <table align="center">
   <tr>
     <td>
