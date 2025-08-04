@@ -1,7 +1,11 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=667eea,764ba2&height=200&section=header&text=Hi%20I'm%20a%20Software%20Engineer!🚀&fontSize=40&fontColor=ffffff"/>
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Hi,+I'm+a+Software+Engineer!+🚀&fontSize=45&animation=fadeIn&fontAlignY=38&desc=&descAlignY=51&descAlign=62)
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%230077B5&size=24&width=600&height=45&lines=Welcome+to+my+portfolio!;I'm+Daehan%2C+innovating+digital+solutions)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%230077B5&size=24&width=600&height=45&lines=Welcome+to+my+profile!;I'm+Daehan%2C+innovating+digital+solutions)](https://git.io/typing-svg)
+
+<br>
+
+![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=daehan-lim)
 
 ## 🛠️ Tech Stack
 
@@ -102,5 +106,8 @@
 
 <br>
 
+<a href="https://github.com/devxb/gitanimals">
+  <img src="https://render.gitanimals.org/farms/daehan-lim}"/>
+</a>
 
 <br>
