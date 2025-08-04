@@ -92,12 +92,12 @@
   <tr>
     <td>
       <a href="https://github.com/anuraghazra/github-readme-stats">
-        <img src="https://github-readme-stats.vercel.app/api?username=daehan-lim&show_icons=true&theme=transparent" width="400"/>
+        <img src="https://github-readme-stats.vercel.app/api?username=daehan-lim&show_icons=true&theme=transparent" alt="GitHub Stats" width="400"/>
       </a>
     </td>
     <td>
       <a href="https://github.com/anuraghazra/github-readme-stats">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=daehan-lim&layout=compact&theme=transparent" width="300"/>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=daehan-lim&layout=compact&theme=transparent" alt="Top Languages" width="300"/>
       </a>
     </td>
   </tr>
