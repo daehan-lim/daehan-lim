@@ -32,6 +32,7 @@
 [![Espresso](https://img.shields.io/badge/Espresso-FF5722?style=for-the-badge)](https://developer.android.com/training/testing/espresso)
 [![Navigation](https://img.shields.io/badge/Navigation-6200EE?style=for-the-badge&logo=android&logoColor=white)](https://developer.android.com/guide/navigation)
 [![Google Play](https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/console)
+[![App Store](https://img.shields.io/badge/App_Store-007AFF?style=for-the-badge&logo=apple&logoColor=white)](https://developer.apple.com/app-store/)
 [![Android Studio](https://img.shields.io/badge/Android_Studio-4285F4?style=for-the-badge&logo=android-studio&logoColor=white)](https://developer.android.com/studio)
 
 ### 데이터베이스 및 네트워킹
