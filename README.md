@@ -1,3 +1,4 @@
+<!--suppress HtmlDeprecatedAttribute -->
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Hi,+I'm+a+Software+Engineer!+🚀&fontSize=45&animation=fadeIn&fontAlignY=38&desc=&descAlignY=51&descAlign=62)
 
 
