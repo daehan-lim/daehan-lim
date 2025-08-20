@@ -73,16 +73,20 @@
 ## 📂 주요 프로젝트 목차
 
 **모바일 애플리케이션**
-- [Cubadebate 뉴스 앱](https://github.com/daehan-lim/cubadebate-app) - 맞춤형 콘텐츠 제공 및 오프라인 저장 기능을 갖춘 뉴스 앱 (2021)<a href="https://github.com/daehan-lim/cubadebate-app" style="color: #21427D; font-size: 20px; text-decoration: none;">&thinsp;&thinsp;⎆</a>
-- [가스 소비 관리 앱](https://github.com/daehan-lim/gas-consumption-manager) - 공공 유틸리티 추적 시스템 (2021)<a href="https://github.com/daehan-lim/gas-consumption-manager" style="color: #21427D; font-size: 20px; text-decoration: none;">&thinsp;&thinsp;⎆</a>
-- [ACME 앱](https://github.com/daehan-lim/acme) - 서비스 티켓 관리 솔루션 (2021)<a href="https://github.com/daehan-lim/acme" style="color: #21427D; font-size: 20px; text-decoration: none;">&thinsp;&thinsp;⎆</a>
-- [Yellow Pages](https://github.com/daehan-lim/cuban-yellow-pages) - 오프라인 지도 기능이 포함된 전화번호부 모바일 앱 (2020)<a href="https://github.com/daehan-lim/cuban-yellow-pages" style="color: #21427D; font-size: 20px; text-decoration: none;">&thinsp;&thinsp;⎆</a>
-- [정부 포털 앱](https://github.com/daehan-lim/government-portal-app) - 공식 정부 대표 플랫폼 애플리케이션 (2021)<a href="https://github.com/daehan-lim/government-portal-app" style="color: #21427D; font-size: 20px; text-decoration: none;">&thinsp;&thinsp;⎆</a>
+- [ShareLingo](https://github.com/zero-to-one-flutter/flutter-share-lingo) - 언어교류 SNS 앱<a href="https://github.com/zero-to-one-flutter/flutter-share-lingo" style="color: #21427D; font-size: 20px; text-decoration: none;">&thinsp;&thinsp;⎆</a>
+- [Cooki](https://github.com/flutter-fantastic-four/cooki-app) - AI 레시피 커뮤니티 앱<a href="https://github.com/flutter-fantastic-four/cooki-app" style="color: #21427D; font-size: 20px; text-decoration: none;">&thinsp;&thinsp;⎆</a>
+- [Cubadebate 뉴스 앱](https://github.com/daehan-lim/cubadebate-app) - 맞춤형 뉴스 플랫폼<a href="https://github.com/daehan-lim/cubadebate-app" style="color: #21427D; font-size: 20px; text-decoration: none;">&thinsp;&thinsp;⎆</a>
+- [FilmMind](https://github.com/daehan-lim/flutter-film-mind-app) - 영화 정보 앱<a href="https://github.com/daehan-lim/flutter-film-mind-app" style="color: #21427D; font-size: 20px; text-decoration: none;">&thinsp;&thinsp;⎆</a>
+- [어디든GO](https://github.com/daehan-lim/flutter-place-finder) - 지역 검색 앱<a href="https://github.com/daehan-lim/flutter-place-finder" style="color: #21427D; font-size: 20px; text-decoration: none;">&thinsp;&thinsp;⎆</a>
+- [가스 소비 관리 앱](https://github.com/daehan-lim/gas-consumption-manager) - 공공 유틸리티 추적 시스템<a href="https://github.com/daehan-lim/gas-consumption-manager" style="color: #21427D; font-size: 20px; text-decoration: none;">&thinsp;&thinsp;⎆</a>
+- [ACME 앱](https://github.com/daehan-lim/acme) - 서비스 티켓 관리 솔루션<a href="https://github.com/daehan-lim/acme" style="color: #21427D; font-size: 20px; text-decoration: none;">&thinsp;&thinsp;⎆</a>
+- [Yellow Pages](https://github.com/daehan-lim/cuban-yellow-pages) - 쿠바 전화번호부 앱<a href="https://github.com/daehan-lim/cuban-yellow-pages" style="color: #21427D; font-size: 20px; text-decoration: none;">&thinsp;&thinsp;⎆</a>
+- [정부 포털 앱](https://github.com/daehan-lim/government-portal-app) - 공식 정부 대표 플랫폼 애플리케이션<a href="https://github.com/daehan-lim/government-portal-app" style="color: #21427D; font-size: 20px; text-decoration: none;">&thinsp;&thinsp;⎆</a>
 
 **머신러닝 시스템**
-- [연합학습 기반 랜덤 포레스트](https://arxiv.org/abs/2407.19193) - 개인정보를 보호하는 분산 학습 시스템 (2023)<a href="https://arxiv.org/abs/2407.19193" style="color: #21427D; font-size: 20px; text-decoration: none;">&thinsp;&thinsp;⎆</a>
-- [RoBERTa 뉴스 분류기](https://github.com/daehan-lim/roberta-sport-news-classifier) - 합성 데이터를 활용해 성능을 개선한 주제 분류 모델 (2024)<a href="https://github.com/daehan-lim/roberta-sport-news-classifier" style="color: #21427D; font-size: 20px; text-decoration: none;">&thinsp;&thinsp;⎆</a>
-- [의료 데이터 분류 시스템](https://github.com/daehan-lim/associative-classifier-mortality-prediction) - 환자 사망률 예측 시스템 (2023)<a href="https://github.com/daehan-lim/associative-classifier-mortality-prediction" style="color: #21427D; font-size: 20px; text-decoration: none;">&thinsp;&thinsp;⎆</a>
+- [연합학습 기반 랜덤 포레스트](https://arxiv.org/abs/2407.19193) - 개인정보를 보호하는 분산 학습 시스템<a href="https://arxiv.org/abs/2407.19193" style="color: #21427D; font-size: 20px; text-decoration: none;">&thinsp;&thinsp;⎆</a>
+- [RoBERTa 뉴스 분류기](https://github.com/daehan-lim/roberta-sport-news-classifier) - 합성 데이터를 활용해 성능을 개선한 주제 분류 모델<a href="https://github.com/daehan-lim/roberta-sport-news-classifier" style="color: #21427D; font-size: 20px; text-decoration: none;">&thinsp;&thinsp;⎆</a>
+- [의료 데이터 분류 시스템](https://github.com/daehan-lim/associative-classifier-mortality-prediction) - 환자 사망률 예측 시스템<a href="https://github.com/daehan-lim/associative-classifier-mortality-prediction" style="color: #21427D; font-size: 20px; text-decoration: none;">&thinsp;&thinsp;⎆</a>
 
 <br>
 
