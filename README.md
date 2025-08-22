@@ -80,6 +80,7 @@
 - [어디든GO](https://github.com/daehan-lim/flutter-place-finder) - 지역 검색 앱
 - [가스 소비 관리 앱](https://github.com/daehan-lim/gas-consumption-manager) - 공공 유틸리티 추적 시스템
 - [ACME 앱](https://github.com/daehan-lim/acme) - 서비스 티켓 관리 솔루션
+- [LangMate](https://github.com/daehan-lim/langmate-app) - 언어 파트너 매칭 채팅 앱
 - [Yellow Pages](https://github.com/daehan-lim/cuban-yellow-pages) - 쿠바 전화번호부 앱
 - [정부 포털 앱](https://github.com/daehan-lim/government-portal-app) - 공식 정부 대표 플랫폼 애플리케이션
 
