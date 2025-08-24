@@ -97,7 +97,7 @@
   <tr>
     <td>
       <a href="https://github.com/anuraghazra/github-readme-stats">
-        <img src="https://github-readme-stats.vercel.app/api?username=daehan-lim&show_icons=true&theme=transparent" alt="GitHub Stats" width="400"/>
+        <img src="https://vercel-eight-red-42.vercel.app/api?username=daehan-lim&show_icons=true&theme=transparent&include_all_commits=true" alt="GitHub Stats" width="400"/>
       </a>
     </td>
     <td>
