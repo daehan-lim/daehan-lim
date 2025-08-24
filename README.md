@@ -4,7 +4,8 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%230077B5&size=24&width=600&height=45&lines=Welcome+to+my+profile!;I'm+Daehan%2C+innovating+digital+solutions)](https://git.io/typing-svg)
 
-<!-- ![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=daehan-lim) -->
+![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=daehan-lim&locale=ko)
+
 ## 🛠️ Tech Stack
 
 ### 모바일 앱 개발 핵심 역량
