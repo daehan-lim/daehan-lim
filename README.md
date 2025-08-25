@@ -24,7 +24,6 @@
 [![Coroutines](https://img.shields.io/badge/Coroutines-7E57C2?style=for-the-badge)](https://kotlinlang.org/docs/coroutines-overview.html)
 [![Android](https://img.shields.io/badge/Android-3DDC84?logo=Android&logoColor=white&style=for-the-badge)](https://developer.android.com)
 [![JETPACK](https://img.shields.io/badge/Jetpack-6b52bf?style=for-the-badge&logo=android&logoColor=white)](https://developer.android.com/jetpack)
-[![Android SDK](https://img.shields.io/badge/Android_SDK-3DDC84?style=for-the-badge&logo=android&logoColor=white)](https://developer.android.com)
 [![LiveData](https://img.shields.io/badge/LiveData-1976D2?style=for-the-badge)](https://developer.android.com/topic/libraries/architecture/livedata)
 [![Material Design](https://img.shields.io/badge/Material%20Design-757575?logo=Material-Design&logoColor=white&style=for-the-badge)](https://m3.material.io)
 [![View Binding](https://img.shields.io/badge/View_Binding-00BFA5?style=for-the-badge)](https://developer.android.com/topic/libraries/view-binding)
