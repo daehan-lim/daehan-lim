@@ -4,7 +4,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%230077B5&size=24&width=600&height=45&lines=Welcome+to+my+profile!;I'm+Daehan%2C+innovating+digital+solutions)](https://git.io/typing-svg)
 
-[![GitHub Streak](https://github-readme-streak-stats-alpha-ashy-17.vercel.app?user=daehan-lim&theme=buefy&exclude_days=Sun%2CSat)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats-alpha-ashy-17.vercel.app?user=daehan-lim&theme=transparent&exclude_days=Sun%2CSat)](https://git.io/streak-stats)
 
 ## 🛠️ Tech Stack
 
