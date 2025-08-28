@@ -3,7 +3,8 @@
 
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%230077B5&size=24&width=600&height=45&lines=Welcome+to+my+profile!;I'm+Daehan%2C+innovating+digital+solutions)](https://git.io/typing-svg)
-<!--![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=daehan-lim&exclude_days=Sun%2CSat)-->
+
+[![GitHub Streak](https://github-readme-streak-stats-alpha-ashy-17.vercel.app?user=daehan-lim&theme=buefy&exclude_days=Sun%2CSat)](https://git.io/streak-stats)
 
 ## 🛠️ Tech Stack
 
