@@ -7,7 +7,7 @@
 <!-- ![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=daehan-lim) -->
 ## 🛠️ Tech Stack
 
-### 모바일 앱 개발 핵심 역량
+### Core Mobile App Development
 [![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)](https://flutter.dev)
 [![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)](https://dart.dev/)
 [![KOTLIN](https://img.shields.io/badge/KOTLIN-7F52FF?logo=KOTLIN&logoColor=white&style=for-the-badge)](https://kotlinlang.org)
@@ -17,7 +17,7 @@
 [![MVVM](https://img.shields.io/badge/MVVM-ed9242?style=for-the-badge)](https://developer.android.com/topic/architecture)
 [![Clean Architecture](https://img.shields.io/badge/Clean_Architecture-4CAF50?style=for-the-badge)](https://blog.cleancoder.com/uncle-bob/2012/08/13/the-clean-architecture.html)
 [![Location Services](https://img.shields.io/badge/Location_Services-4285F4?style=for-the-badge&logo=google-maps&logoColor=white)](https://developers.google.com/maps/documentation)
-[![i18n](https://img.shields.io/badge/i18n_다국어_지원-FF6B6B?style=for-the-badge)](https://flutter.dev/docs/development/accessibility-and-localization/internationalization)
+[![i18n](https://img.shields.io/badge/i18n_Internationalization-FF6B6B?style=for-the-badge)](https://flutter.dev/docs/development/accessibility-and-localization/internationalization)
 [![Speech Recognition](https://img.shields.io/badge/Speech_Recognition-9C27B0?style=for-the-badge)](https://pub.dev/packages/speech_to_text)
 [![Image Processing](https://img.shields.io/badge/Image_Processing-FF9800?style=for-the-badge)](https://pub.dev/packages/image)
 [![Coroutines](https://img.shields.io/badge/Coroutines-7E57C2?style=for-the-badge)](https://kotlinlang.org/docs/coroutines-overview.html)
@@ -34,7 +34,7 @@
 [![App Store](https://img.shields.io/badge/App_Store-007AFF?style=for-the-badge&logo=apple&logoColor=white)](https://developer.apple.com/app-store/)
 [![Android Studio](https://img.shields.io/badge/Android_Studio-4285F4?style=for-the-badge&logo=android-studio&logoColor=white)](https://developer.android.com/studio)
 
-### 데이터베이스 및 네트워킹
+### Data Management & Backend
 [![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)](https://firebase.google.com/)
 [![Firestore](https://img.shields.io/badge/Firestore-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)](https://firebase.google.com/products/firestore)
 [![Cloud Functions](https://img.shields.io/badge/Firebase_Cloud_Functions-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)](https://firebase.google.com/products/functions)
@@ -51,7 +51,7 @@
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org)
 [![MOSHI](https://img.shields.io/badge/Moshi-67b586?style=for-the-badge)](https://github.com/square/moshi)
 
-### 기타 도구 및 프로그래밍 언어
+### Additional Technologies & Languages
 [![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com)
 [![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)](https://github.com/features/actions)
 [![Gemini AI](https://img.shields.io/badge/Gemini_AI-4285F4?style=for-the-badge&logo=google&logoColor=white)](https://ai.google.dev/)
@@ -70,24 +70,24 @@
 <br>
 
 <span style="display: block; height: 1px;"></span>
-## 📂 주요 프로젝트 목차
+## 📂 Key Projects
 
-**모바일 애플리케이션**
-- [ShareLingo](https://github.com/zero-to-one-flutter/flutter-share-lingo) - 언어교류 SNS 앱
-- [Cooki](https://github.com/flutter-fantastic-four/cooki-app) - AI 레시피 커뮤니티 앱
-- [Cubadebate 뉴스 앱](https://github.com/daehan-lim/cubadebate-app) - 맞춤형 뉴스 플랫폼
-- [FilmMind](https://github.com/daehan-lim/flutter-film-mind-app) - 영화 정보 앱
-- [어디든GO](https://github.com/daehan-lim/flutter-place-finder) - 지역 검색 앱
-- [가스 소비 관리 앱](https://github.com/daehan-lim/gas-consumption-manager) - 공공 유틸리티 추적 시스템
-- [ACME 앱](https://github.com/daehan-lim/acme) - 서비스 티켓 관리 솔루션
-- [LangMate](https://github.com/daehan-lim/langmate-app) - 언어 파트너 매칭 채팅 앱
-- [Yellow Pages](https://github.com/daehan-lim/cuban-yellow-pages) - 쿠바 전화번호부 앱
-- [정부 포털 앱](https://github.com/daehan-lim/government-portal-app) - 공식 정부 대표 플랫폼 애플리케이션
+**Mobile Applications**
+- [ShareLingo](https://github.com/zero-to-one-flutter/flutter-share-lingo) - Language Exchange Social Media App
+- [Cooki](https://github.com/flutter-fantastic-four/cooki-app) - AI Recipe Community App
+- [Cubadebate News App](https://github.com/daehan-lim/cubadebate-app) - Personalized News Platform
+- [FilmMind](https://github.com/daehan-lim/flutter-film-mind-app) - Movie Information App
+- [PlaceFinder](https://github.com/daehan-lim/flutter-place-finder) - Location Search App
+- [Gas Consumption Manager](https://github.com/daehan-lim/gas-consumption-manager) - Public Utility Tracking System
+- [ACME App](https://github.com/daehan-lim/acme) - Field Service Management Solution
+- [LangMate](https://github.com/daehan-lim/langmate-app) - Language Partner Matching Chat App
+- [Yellow Pages](https://github.com/daehan-lim/cuban-yellow-pages) - Cuban Phone Directory App
+- [Government Portal App](https://github.com/daehan-lim/government-portal-app) - Official Government Platform Application
 
-**머신러닝 시스템**
-- [연합학습 기반 랜덤 포레스트](https://arxiv.org/abs/2407.19193) - 개인정보를 보호하는 분산 학습 시스템
-- [RoBERTa 뉴스 분류기](https://github.com/daehan-lim/roberta-sport-news-classifier) - 합성 데이터를 활용해 성능을 개선한 주제 분류 모델
-- [의료 데이터 분류 시스템](https://github.com/daehan-lim/associative-classifier-mortality-prediction) - 환자 사망률 예측 시스템
+**Machine Learning Systems**
+- [Federated Learning Random Forest](https://arxiv.org/abs/2407.19193) - Privacy-Preserving Distributed Learning System
+- [RoBERTa News Classifier](https://github.com/daehan-lim/roberta-sport-news-classifier) - Topic Classification Model Enhanced with Synthetic Data
+- [Medical Data Classification System](https://github.com/daehan-lim/associative-classifier-mortality-prediction) - Patient Mortality Prediction System
 
 <br>
 
