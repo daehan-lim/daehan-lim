@@ -84,9 +84,12 @@
 | [Government Portal App](https://github.com/daehan-lim/government-portal-app) | Official Government Platform Application | `Android` `Kotlin` `Retrofit` `Coroutines` `Room` `MVVM` `WebView` `ViewPager2` |
 
 ### 🔬 Machine Learning Systems
-- [Federated Learning Random Forest](https://arxiv.org/abs/2407.19193) - Privacy-Preserving Distributed Learning System
-- [RoBERTa News Classifier](https://github.com/daehan-lim/roberta-sport-news-classifier) - Topic Classification Model Enhanced with Synthetic Data
-- [Medical Data Classification System](https://github.com/daehan-lim/associative-classifier-mortality-prediction) - Patient Mortality Prediction System
+
+| Project | Description | Tech Stack |
+|---------|-------------|------------|
+| [Federated Learning Random Forest](https://arxiv.org/abs/2407.19193) | Privacy-Preserving Distributed Learning System | `Python` `NumPy` `Pandas` `scikit-learn` `Matplotlib` `multiprocessing`|
+| [RoBERTa News Classifier](https://github.com/daehan-lim/roberta-sport-news-classifier) | Topic Classification Model Enhanced with Synthetic Data | `Python` `PyTorch` `Hugging Face Transformers` `GPT-4` `Streamlit` |
+| [Medical Data Classification System](https://github.com/daehan-lim/associative-classifier-mortality-prediction) | Patient Mortality Prediction System | `Python` `NumPy` `Pandas` `scikit-learn` `Jupyter` |
 
 <br>
 
