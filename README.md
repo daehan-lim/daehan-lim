@@ -4,7 +4,8 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%230077B5&size=24&width=600&height=45&lines=Welcome+to+my+profile!;I'm+Daehan%2C+innovating+digital+solutions)](https://git.io/typing-svg)
 
-<!-- ![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=daehan-lim) -->
+[![GitHub Streak](https://github-readme-streak-stats-alpha-ashy-17.vercel.app?user=daehan-lim&theme=transparent&exclude_days=Sun%2CSat)](https://git.io/streak-stats)
+
 ## 🛠️ Tech Stack
 
 ### Core Mobile App Development
@@ -23,16 +24,13 @@
 [![Coroutines](https://img.shields.io/badge/Coroutines-7E57C2?style=for-the-badge)](https://kotlinlang.org/docs/coroutines-overview.html)
 [![Android](https://img.shields.io/badge/Android-3DDC84?logo=Android&logoColor=white&style=for-the-badge)](https://developer.android.com)
 [![JETPACK](https://img.shields.io/badge/Jetpack-6b52bf?style=for-the-badge&logo=android&logoColor=white)](https://developer.android.com/jetpack)
-[![Android SDK](https://img.shields.io/badge/Android_SDK-3DDC84?style=for-the-badge&logo=android&logoColor=white)](https://developer.android.com)
 [![LiveData](https://img.shields.io/badge/LiveData-1976D2?style=for-the-badge)](https://developer.android.com/topic/libraries/architecture/livedata)
 [![Material Design](https://img.shields.io/badge/Material%20Design-757575?logo=Material-Design&logoColor=white&style=for-the-badge)](https://m3.material.io)
 [![View Binding](https://img.shields.io/badge/View_Binding-00BFA5?style=for-the-badge)](https://developer.android.com/topic/libraries/view-binding)
 [![JUnit](https://img.shields.io/badge/JUnit-25A162?style=for-the-badge&logo=junit5&logoColor=white)](https://junit.org)
-[![Espresso](https://img.shields.io/badge/Espresso-FF5722?style=for-the-badge)](https://developer.android.com/training/testing/espresso)
 [![Navigation](https://img.shields.io/badge/Navigation-6200EE?style=for-the-badge&logo=android&logoColor=white)](https://developer.android.com/guide/navigation)
 [![Google Play](https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/console)
 [![App Store](https://img.shields.io/badge/App_Store-007AFF?style=for-the-badge&logo=apple&logoColor=white)](https://developer.apple.com/app-store/)
-[![Android Studio](https://img.shields.io/badge/Android_Studio-4285F4?style=for-the-badge&logo=android-studio&logoColor=white)](https://developer.android.com/studio)
 
 ### Data Management & Backend
 [![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)](https://firebase.google.com/)
@@ -49,7 +47,6 @@
 [![RETROFIT](https://img.shields.io/badge/retrofit-67b586?logo=square&logoColor=white&style=for-the-badge)](https://square.github.io/retrofit)
 [![ROOM](https://img.shields.io/badge/Room-003B57?style=for-the-badge&logo=android&logoColor=white)](https://developer.android.com/training/data-storage/room)
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org)
-[![MOSHI](https://img.shields.io/badge/Moshi-67b586?style=for-the-badge)](https://github.com/square/moshi)
 
 ### Additional Technologies & Languages
 [![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com)
@@ -62,7 +59,6 @@
 [![Android Jetpack](https://img.shields.io/badge/Android_Jetpack-6b52bf?style=for-the-badge&logo=android&logoColor=white)](https://developer.android.com/jetpack)
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org)
 [![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)](https://pytorch.org/)
-[![GetIt](https://img.shields.io/badge/GetIt-0175C2?style=for-the-badge)](https://pub.dev/packages/get_it)
 [![OpenAI API](https://img.shields.io/badge/OpenAI-API-412991?style=for-the-badge&logo=openai&logoColor=white)](https://platform.openai.com/)
 [![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)](https://scikit-learn.org/)
 [![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://www.linux.org/)
@@ -97,7 +93,7 @@
   <tr>
     <td>
       <a href="https://github.com/anuraghazra/github-readme-stats">
-        <img src="https://github-readme-stats.vercel.app/api?username=daehan-lim&show_icons=true&theme=transparent" alt="GitHub Stats" width="400"/>
+        <img src="https://vercel-eight-red-42.vercel.app/api?username=daehan-lim&show_icons=true&theme=transparent&include_all_commits=true" alt="GitHub Stats" width="400"/>
       </a>
     </td>
     <td>
